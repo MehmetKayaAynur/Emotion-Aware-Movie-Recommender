@@ -1,0 +1,8 @@
+torch
+transformers
+streamlit
+pandas
+numpy
+requests
+python-dotenv
+tqdm
